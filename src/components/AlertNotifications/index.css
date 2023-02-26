@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.css-all-alertnotifications-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.css-ul-container {
+  list-style-type: none;
+  padding: 0;
+}
